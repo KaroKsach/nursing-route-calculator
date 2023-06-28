@@ -11,13 +11,13 @@ export default function Navbar() {
             </span>
           </a>
           <div className="flex flex-grow justify-start pl-16">
-            <a href="#" className="px-4 py-2 transition duration-300 hover:bg-blue-300 rounded-lg">
+            <a href="#" className="px-4 py-2 transition duration-300 hover:text-white hover:bg-blue-500 rounded-lg border hover:border-transparent border-blue-500 mr-2">
               Home
             </a>
-            <a href="#" className="px-4 py-2 transition duration-300 hover:bg-blue-300 rounded-lg">
+            <a href="#" className="px-4 py-2 transition duration-300 hover:text-white hover:bg-blue-500 rounded-lg border hover:border-transparent border-blue-500 mr-2">
               Add Patient
             </a>
-            <a href="#" className="px-4 py-2 transition duration-300 hover:bg-blue-300 rounded-lg">
+            <a href="#" className="px-4 py-2 transition duration-300 hover:text-white hover:bg-blue-500 rounded-lg border hover:border-transparent border-blue-500 mr-2">
               Plot Route
             </a>
           </div>
